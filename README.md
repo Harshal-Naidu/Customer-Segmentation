@@ -51,4 +51,4 @@ Customer segmentation is crucial for businesses to target their marketing effort
 # Contributor:
 Harshal S. Naidu
 
-# Feel free to contribute to this project by submitting bug fixes, feature enhancements, or suggestions via pull requests.
+Feel free to contribute to this project by submitting bug fixes, feature enhancements, or suggestions via pull requests.
